@@ -1,0 +1,17 @@
+Pollious is a Polling application written in the high-level web 
+development language, Django, which I am currently learning.
+
+Please, download and enjoy it!
+
+
+Run the command: 'python manage.py runserver'
+If you want to run it on another port, use: 'python manage.py runserver 
+(port no.)
+
+Browse to http://127.0.0.1:8000/polls/ to view the polls.
+Browse to http://127.0.0.1:8000/admin/ to create/edit the polls.
+The default username is: 'admin'
+The default password is: 'default'
+
+There is a default poll of 'How are you?'
+Thanks, and enjoy!
